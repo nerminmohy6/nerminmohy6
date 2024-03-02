@@ -14,7 +14,7 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 🔒 As a cybersecurity enthusiast, I've participated in Black Hat MEA competition and The Arab Regional Cybersecurity CTF 2022.
 - 💡 Problem-solving is my passion, and I've excelled in the Egyptian Collegiate Programming Contest (ECPC) in both 2021 and 2022.
-- 💬 Ask me about my experience with Python, Django, or anything related to web development.
+
 
 
 
